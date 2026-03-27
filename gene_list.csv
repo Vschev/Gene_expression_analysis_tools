@@ -1,0 +1,56 @@
+﻿your_input;tax_id;entrez;gene_symbol;title;location;chrom;status;type
+70;9606;70;ACTC1;actin alpha cardiac muscle 1;15q14;15;active;protein-coding
+498;9606;498;ATP5F1A;ATP synthase F1 subunit alpha;18q21.1;18;active;protein-coding
+689;9606;689;BTF3;basic transcription factor 3;5q13.2;5;active;protein-coding
+752;9606;752;FMNL1;formin like 1;17q21.31;17;active;protein-coding
+1729;9606;1729;DIAPH1;diaphanous related formin 1;5q31.3;5;active;protein-coding
+1938;9606;1938;EEF2;eukaryotic translation elongation factor 2;19p13.3;19;active;protein-coding
+3028;9606;3028;HSD17B10;hydroxysteroid 17-beta dehydrogenase 10;Xp11.22;X;active;protein-coding
+3303;9606;3303;HSPA1A;heat shock protein family A (Hsp70) member 1A;6p21.33;6;active;protein-coding
+3315;9606;3315;HSPB1;heat shock protein family B (small) member 1;7q11.23;7;active;protein-coding
+3326;9606;3326;HSP90AB1;heat shock protein 90 alpha family class B member 1;6p21.1;6;active;protein-coding
+3799;9606;3799;KIF5B;kinesin family member 5B;10p11.22;10;active;protein-coding
+3831;9606;3831;KLC1;kinesin light chain 1;14q32.33;14;active;protein-coding
+3838;9606;3838;KPNA2;karyopherin subunit alpha 2;17q24.2;17;active;protein-coding
+4013;9606;4013;VWA5A;von Willebrand factor A domain containing 5A;11q24.2;11;active;protein-coding
+5160;9606;5160;PDHA1;pyruvate dehydrogenase E1 subunit alpha 1;Xp22.12;X;active;protein-coding
+5214;9606;5214;PFKP;phosphofructokinase, platelet;10p15.2;10;active;protein-coding
+5707;9606;5707;PSMD1;proteasome 26S subunit, non-ATPase 1;2q37.1;2;active;protein-coding
+5925;9606;5925;RB1;RB transcriptional corepressor 1;13q14.2;13;active;protein-coding
+5927;9606;5927;KDM5A;lysine demethylase 5A;12p13.33;12;active;protein-coding
+7153;9606;7153;TOP2A;DNA topoisomerase II alpha;17q21.2;17;active;protein-coding
+7296;9606;7296;TXNRD1;thioredoxin reductase 1;12q23.3;12;active;protein-coding
+7514;9606;7514;XPO1;exportin 1;2p15;2;active;protein-coding
+7984;9606;7984;ARHGEF5;Rho guanine nucleotide exchange factor 5;7q35;7;active;protein-coding
+8242;9606;8242;KDM5C;lysine demethylase 5C;Xp11.22;X;active;protein-coding
+8284;9606;8284;KDM5D;lysine demethylase 5D;Yq11.223;Y;active;protein-coding
+8412;9606;8412;BCAR3;BCAR3 adaptor protein, NSP family member;1p22.1;1;active;protein-coding
+9329;9606;9329;GTF3C4;general transcription factor IIIC subunit 4;9q34.13;9;active;protein-coding
+9588;9606;9588;PRDX6;peroxiredoxin 6;1q25.1;1;active;protein-coding
+9859;9606;9859;CEP170;centrosomal protein 170;1q43;1;active;protein-coding
+10342;9606;10342;TFG;trafficking from ER to golgi regulator;3q12.2;3;active;protein-coding
+10383;9606;10383;TUBB4B;tubulin beta 4B class IVb;9q34.3;9;active;protein-coding
+10765;9606;10765;KDM5B;lysine demethylase 5B;1q32.1;1;active;protein-coding
+22894;9606;22894;DIS3;DIS3 homolog, exosome endoribonuclease and 3'-5' exoribonuclease;13q21.33;13;active;protein-coding
+23168;9606;23168;RTF1;RTF1 homolog, Paf1/RNA polymerase II complex component;15q15.1;15;active;protein-coding
+23215;9606;23215;PRRC2C;proline rich coiled-coil 2C;1q24.3;1;active;protein-coding
+27316;9606;27316;RBMX;RNA binding motif protein X-linked;Xq26.3;X;active;protein-coding
+28976;9606;28976;ACAD9;acyl-CoA dehydrogenase family member 9;3q21.3;3;active;protein-coding
+28988;9606;28988;DBNL;drebrin like;7p13;7;active;protein-coding
+29789;9606;29789;OLA1;Obg like ATPase 1;2q31.1;2;active;protein-coding
+51076;9606;51076;CUTC;cutC copper transporter;10q24.2;10;active;protein-coding
+54555;9606;54555;DDX49;DEAD-box helicase 49;19p13.11;19;active;protein-coding
+55148;9606;55148;UBR7;ubiquitin protein ligase E3 component n-recognin 7;14q32.12;14;active;protein-coding
+55201;9606;55201;MAP1S;microtubule associated protein 1S;19p13.11;19;active;protein-coding
+55696;9606;55696;RBM22;RNA binding motif protein 22;5q33.1;5;active;protein-coding
+55920;9606;55920;RCC2;regulator of chromosome condensation 2;1p36.13;1;active;protein-coding
+56950;9606;56950;SMYD2;SET and MYND domain containing 2;1q32.3;1;active;protein-coding
+79026;9606;79026;AHNAK;AHNAK nucleoprotein;11q12.3;11;active;protein-coding
+79098;9606;79098;C1orf116;chromosome 1 open reading frame 116;1q32.1;1;active;protein-coding
+85456;9606;85456;TNKS1BP1;tankyrase 1 binding protein 1;11q12.1;11;active;protein-coding
+91010;9606;91010;FMNL3;formin like 3;12q13.12;12;active;protein-coding
+114793;9606;114793;FMNL2;formin like 2;2q23.3;2;active;protein-coding
+149986;9606;149986;LSM14B;LSM family member 14B;20q13.33;20;active;protein-coding
+203068;9606;203068;TUBB;tubulin beta class I;6p21.33;6;active;protein-coding
+257160;9606;257160;RNF214;ring finger protein 214;11q23.3;11;active;protein-coding
+345651;9606;345651;ACTBL2;actin beta like 2;5q11.2;5;active;protein-coding
