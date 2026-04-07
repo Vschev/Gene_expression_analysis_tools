@@ -2,13 +2,13 @@
 Tools for gene expression analysis
 
 This repository contains Excel files for data analysis of the TCGA Breast Carcinoma dataset (42851 transcripts for 1250 patients, file is available upon request).
-Genes related to histone methylation (writers, readers, and erasers) are explored for expression variance between the groups (different stages, N-stages, and molecular subtypes), and survival analysis is performed.
+Genes related to histone methylation (writers, readers, and erasers) are examined for expression variance across molecular subtypes, and survival analysis is performed.
 
 It also contains several Jupyter notebooks:
 
 02_project+file+ANOVA.ipynb - sample grouping and ANOVA analysis
 
-04_survival_analysis.ipynb - survival analysis of genes in the selected groups
+04_survival_analysis.ipynb - survival analysis of a selection of genes
 
 Correlation.ipynb - expression correlation analysis and heatmap rendering for selected genes
 
