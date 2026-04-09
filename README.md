@@ -1,7 +1,8 @@
 # Stage_gene_exp
 Tools for gene expression analysis
 
-This repository contains Excel files for data analysis of the TCGA Breast Carcinoma dataset (42851 transcripts for 1250 patients, file is available upon request).
+This repository contains Excel files for data analysis of the TCGA Breast Carcinoma dataset (42851 transcripts for 1250 patients, csv file is available upon request).
+Here, the trimmed dataset is used, filtered to retain genes of interest only (466 genes)
 Genes related to histone methylation (writers, readers, and erasers) are examined for expression variance across molecular subtypes, and survival analysis is performed.
 
 It also contains several Jupyter notebooks:
