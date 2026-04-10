@@ -14,7 +14,5 @@ EpiMed_experimental_grouping_2023.03.16_TCGA-BRCA.xlsx and clinical_TCGA-BRCA.cs
 
 04_survival_analysis.ipynb - survival analysis of a selection of genes
 
-Correlation.ipynb - expression correlation analysis and heatmap rendering for selected genes
-
 NCBI prompts.ipynb - a tool that prompts NCBI based on a given list of gene names (as strings) and retrieves all their synonymic names from their NCBI pages.
 This can be used for analysis enrichment.
